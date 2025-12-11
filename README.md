@@ -18,18 +18,17 @@ O sistema realiza monitoramento **em tempo real** da temperatura de câmaras fri
 
 # 🖼 Imagens do Projeto
 
-### 📷 Aplicação pronta exibindo temperatura no display
+### 📷 Aplicação pronta exibindo temperatura no display(Lendo o QrCode acessa ao App Esp RainMaker)
 
-*(substitua o arquivo pela sua imagem)*
-![Imagem](imagens/display.jpg)
+<p align="center"> <img src="imagens/display.png" width="350" height="350"> </p>
 
 ### 📱 Funcionamento do aplicativo RainMaker
 
-![Imagem](imagens/app.jpg)
+<p align="center"> <img src="imagens/APP.png" width="350" height="350"> </p>
 
-### 🧊 Mockup do produto final + celular
+### 🧊  produto final + celular
 
-![Imagem](imagens/produto.jpg)
+<p align="center"> <img src="imagens/Produto.png" width="350" height="350"> </p>
 
 ---
 
