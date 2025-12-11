@@ -1,0 +1,15 @@
+#http://codebeauty.org/yaml-validator
+## IDF Component Manager Manifest File - AO ACRESCENTAR ITENS AQUI, APAGAR ARQUIVO "dependencies.lock"
+dependencies:
+  lvgl/lvgl: "^8" #"9.3.0" #"~8.3.0"
+  esp_lcd_sh1107: "^1"
+  esp_lvgl_port: "^2"
+  ds18b20: "0.1.0" #"^0.1.0"
+  #espressif/esp_lvgl_port: "^2" #"2.4.2" #"2.3.0"
+  ## Required IDF version - DEIXAR ESTA CONFIGURAÇÃO POR ÚLTIMO
+
+  idf:
+    version: ">=5.0.0"
+  espressif/esp_rainmaker:
+    version: ">=1.0"
+    override_path: '../../../components/esp_rainmaker/'
